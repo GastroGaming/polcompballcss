@@ -71,7 +71,7 @@ textarea{
 .sitetable, .gold-accent.comment-visits-box {
     margin-top: 10px;
     margin-left: 10px;
-    margin-right: 325px;
+    margin-right: 10px;
 }
 
 .link, .comment {
@@ -115,6 +115,6 @@ textarea{
 }
 
 /* No ads for Reddit :) */
-.nub, .rank, .premium-banner-outer, .child {
+.premium-banner-outer{
     display: none !important;
 }
